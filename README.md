@@ -16,17 +16,17 @@ This project developed a citation mining solution consisting of four software co
 
 ### Aeneid in JSTOR
 
-[*Cited Loci of the Aeneid*](http://aeneid.citedloci.org/) is a proof of concept of how next-generation tools for retrieving bibliographic information could look like. More than five thousands articles that quote or refer to specific passages of Virgil's *Aeneid* are made searchable trough an intuitive interface. To build this, more than 12,000 canonical references were extracted from over 5,700 journal articles in JSTOR using Cited Loci's technology.
+[*Cited Loci of the Aeneid*](http://aeneid.citedloci.org/) is a proof of concept of how next-generation tools for retrieving bibliographic information could look like. More than five thousands articles that quote or refer to specific passages of Virgil's *Aeneid* are made searchable trough an intuitive interface. To build this, more than 12,000 canonical references to the *Aeneid* were extracted from over 5,700 journal articles in JSTOR using Cited Loci's technology.
 
 Read more about this collaboration in [this blog post](https://labs.jstor.org/blog/#!cited_loci_of_the_aeneid-searching_through_jstors_content_the_classicists_way).
 
 ### EpiBau
 
-Cited Loci's citation mining technology is currently being employed, in the framework of the [*Epische Bauformen*](https://www.epische-bauformen.uni-rostock.de/en/) project at the University of Rostock, to support the creation of an index of cited passages (*index locorum*) for the compendium [*Structures of Epic Poetry*](https://www.degruyter.com/view/product/475925). This publication in three volumes is edited by Prof. Christiane Reitz and Dr. Simone Finkmann, and will be published by De Gruyter.
+Cited Loci's citation mining technology is currently being employed, in a collaboration with the [*Epische Bauformen*](https://www.epische-bauformen.uni-rostock.de/en/) project at the University of Rostock, to support the creation of an index of cited passages (*index locorum*) for the compendium [*Structures of Epic Poetry*](https://www.degruyter.com/view/product/475925). This publication in three volumes is edited by Prof. Christiane Reitz and Dr. Simone Finkmann, and will be published by De Gruyter.
 
 ### CHS OA Books
 
-
+Thanks to a collaboration with Leonard Muellner, summer interns at [Harvard's Center for Hellenic Studies (CHS)](https://chs.harvard.edu) have been training Cited Loci's citation mining tools to index canonical references contained in the [Open Access books and monographs](https://chs.harvard.edu/CHS/article/display/1166.browse-online-publications) published by the centre.  
 
 ## Publications
 
