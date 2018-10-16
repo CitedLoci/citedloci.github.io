@@ -8,6 +8,8 @@ This project developed a citation mining solution consisting of four software co
 - the [HuCit Knowledge Base](https://github.com/mromanello/hucit_kb), a database containing unique identifiers, abbreviations, and variant forms for classical authors and their works (used by Matcher and Extractor)
 - the [Citation Parser](https://github.com/mromanello/CitationParser), which takes care of transforming reference scopes into a normalized form, suitable to be embedded into a CTS URN.
 
+![tech architecture diagram](assets/img/tech.png)
+
 ## Applications
 
 ### Aeneid
