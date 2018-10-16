@@ -24,9 +24,9 @@ Read more about this collaboration in [this blog post](https://labs.jstor.org/bl
 
 Cited Loci's citation mining technology is currently being employed, in a collaboration with the [*Epische Bauformen*](https://www.epische-bauformen.uni-rostock.de/en/) project at the University of Rostock, to support the creation of an index of cited passages (*index locorum*) for the compendium [*Structures of Epic Poetry*](https://www.degruyter.com/view/product/475925). This publication in three volumes is edited by Prof. Christiane Reitz and Dr. Simone Finkmann, and will be published by De Gruyter.
 
-### CHS OA Books
+### CHS Publications
 
-Thanks to a collaboration with Leonard Muellner, summer interns at [Harvard's Center for Hellenic Studies (CHS)](https://chs.harvard.edu) have been training Cited Loci's citation mining tools to index canonical references contained in the [Open Access books and monographs](https://chs.harvard.edu/CHS/article/display/1166.browse-online-publications) published by the centre.  
+Thanks to a collaboration with Leonard Muellner at [Harvard's Center for Hellenic Studies (CHS)](https://chs.harvard.edu), summer interns  have been working to train Cited Loci's citation mining tools to index canonical references from the [Open Access books and monographs](https://chs.harvard.edu/CHS/article/display/1166.browse-online-publications) published by CHS.  
 
 ## Publications
 
