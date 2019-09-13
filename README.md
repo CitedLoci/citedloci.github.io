@@ -30,6 +30,8 @@ Thanks to a collaboration with Leonard Muellner at [Harvard's Center for Helleni
 
 ## Publications
 
+- Romanello, M. & Colavizza G. 2019. "Citation Mining of Humanities Journals: The Progress to Date and the Challenges Ahead". *Journal of European Periodical Studies*, 36-53 [doi:10.21825/jeps.v4i1.10120](https://doi.org/10.21825/jeps.v4i1.10120)
+
 - Romanello, M. 2019 (forthcoming). “Large-Scale Extraction of Canonical References: Challenges and Prospects.” In Pierazzo, E. and Cogitore, I. eds., *Digital Humanities and Antiquity. Humanités Numériques et Antiquité. Actes Du Colloque International, Grenoble 2-4 Septembre 2015*, 74–89 ([preprint](http://dx.doi.org/10.13140/RG.2.2.32634.59842)).
 
 - Romanello, M. 2015. “From Index Locorum to Citation Network: An Approach to the Automatic Extraction of Canonical References and Its Applications to the Study of Classical Texts.” King’s College London. [doi:11858/00-1780-0000-002A-4537-A](http://dx.doi.org/11858/00-1780-0000-002A-4537-A).
